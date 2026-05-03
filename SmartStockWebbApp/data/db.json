@@ -1,0 +1,44 @@
+{
+  "users": [],
+  "session": null,
+  "settings": {
+    "theme": "dark"
+  },
+  "inventory": [
+    {
+      "id": "1",
+      "model": "iPhone 14 Pro",
+      "brand": "Apple Inc.",
+      "specs": "256GB, Space Black",
+      "quantity": 42
+    },
+    {
+      "id": "2",
+      "model": "Samsung Galaxy S24",
+      "brand": "Samsung Electronics",
+      "specs": "256GB, Phantom Black",
+      "quantity": 26
+    },
+    {
+      "id": "3",
+      "model": "Redmi Note 13",
+      "brand": "Xiaomi",
+      "specs": "256GB, Midnight Black",
+      "quantity": 58
+    },
+    {
+      "id": "4",
+      "model": "Vivo V30",
+      "brand": "Vivo",
+      "specs": "128GB, Elegant Black",
+      "quantity": 15
+    },
+    {
+      "id": "5",
+      "model": "OnePlus 12",
+      "brand": "OnePlus",
+      "specs": "256GB, Silky Black",
+      "quantity": 0
+    }
+  ]
+}
